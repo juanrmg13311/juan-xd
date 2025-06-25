@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "0329bf8ed97b336fbd0fdd27a0d08504"
+	name: "Juanrmg#0329bf8e"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

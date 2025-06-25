@@ -1,0 +1,17 @@
+{
+	id: "0329bf8e-d97b-336f-bd0f-dd27a0d08504"
+	type: "player"
+	player_name: "Juanrmg"
+	ranks: {
+		0329bf8e-d97b-336f-bd0f-dd27a0d08504: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Juanrmg"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59FA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
